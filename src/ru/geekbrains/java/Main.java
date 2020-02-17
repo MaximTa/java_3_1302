@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     private static Scanner scanner = new Scanner(System.in);
-
+//Задание 3
     public static void main(String[] args) {
         System.out.println("Угадай число с трёх раз!");
         int range = 9;
